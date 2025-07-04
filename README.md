@@ -1,2 +1,3 @@
 # DS-challenges
-DS work on publicly availabe datasets
+Notebooks containing DS work on publicly availabe datasets can be found here. 
+
